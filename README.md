@@ -1,4 +1,9 @@
-IAU307_massive_stars
-====================
+# [New Windows on Massive Stars](http://obswww.unige.ch/Conferences/IAU307/index.html)
 
-Material for the IAU 307 symposium about massive stars.
+
+The IAU symposium 307 entitled New Windows on Massive stars will 
+be in Geneva, Switzerland, from 22 to 27 of June 2014.
+
+I will submit my work as a poster.
+
+
