@@ -6,23 +6,24 @@ be in Geneva, Switzerland, from 22 to 27 of June 2014.
 
 I will submit my work as a poster.
 
-**Title:** A Spectroscopic Study of OB Stars from the Galactic Outer Disk
+**Title:** A Spectroscopic Study of OB Stars Located on the Outer Galactic Disk
 
 **Abstract:**
 
-Several studies have shown an existence of a metallicity gradient on the
-Galactic disk. But, there is a low number of massive stars studied located
-in the outer disk. In this work, we try to address this problem.
+Abundance gradients are generally observed in all galaxies, with their
+metallicities decreasing outwards from the galactic centers. The abundance
+slopes for different elements may vary depending on the galactic morphology.
+In our galaxy, the radial abundance gradients remain somewhat uncertain on the
+outer parts of the Galactic disk, due to the small number of studied stars
+located beyond the Perseus Arm. The aim of this study is to provide a large
+abundance database of distant stars in order to better constrain the Galactic
+gradient in the Outer Disk.
 
-We have collected a sample of 137 OB stars located in the Galactic outer disk.
-These stars were observed using the 6.5m Clay telescope located in Las
-Campanas, Chile. After rejecting the ones with bad observation, binaries and
-multiples and stars with high projected rotational velocity, we ended up with
-a subsample with 50 stars to be analysed. Our methodology consists in
-determining the stellar parameters through a iterative method in which the
-temperature is obtained by the Si II/III/IV ionization equilibrium, the gravity
-by fitting the Blamer lines and the microturbulence velocity is obtained by
-removing the dependency of the Si III lines abundances with their equivalent
-widths.
-
-In this work, we present partial results from our analysis.
+We have obtained high-resolution, echelle spectra for a sample of 137 OB stars
+located towards the Galactic anticenter using the 6.5m Clay telescope + MIKE
+spectrograph (Las Campanas, Chile). A subsample of 50  single stars presenting
+sharp absorption lines has been selected to proceed the abundance analysis.
+Stellar parameters and silicon abundances are derived consistently based on
+non-LTE synthesis of hydrogen, helium, and silicon lines, requiring ionization
+balance of SiII/III/IV. In this work, we present preliminary abundance results
+of our analysis.
