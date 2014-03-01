@@ -13,17 +13,15 @@ I will submit my work as a poster.
 Abundance gradients are generally observed in all galaxies, with their
 metallicities decreasing outwards from the galactic centers. The abundance
 slopes for different elements may vary depending on the galactic morphology.
-In our galaxy, the radial abundance gradients remain somewhat uncertain on the
+In our Galaxy, the radial abundance gradients remain somewhat uncertain on the
 outer parts of the Galactic disk, due to the small number of studied stars
 located beyond the Perseus Arm. The aim of this study is to provide a large
 abundance database of distant stars in order to better constrain the Galactic
-gradient in the Outer Disk.
-
-We have obtained high-resolution, echelle spectra for a sample of 137 OB stars
-located towards the Galactic anticenter using the 6.5m Clay telescope + MIKE
-spectrograph (Las Campanas, Chile). A subsample of 50  single stars presenting
-sharp absorption lines has been selected to proceed the abundance analysis.
-Stellar parameters and silicon abundances are derived consistently based on
-non-LTE synthesis of hydrogen, helium, and silicon lines, requiring ionization
-balance of SiII/III/IV. In this work, we present preliminary abundance results
-of our analysis.
+gradient in the Outer Disk. We have obtained high-resolution, echelle spectra
+for a sample of 137 OB stars located towards the Galactic anticenter using the
+6.5m Magellan Clay telescope + MIKE spectrograph. A subsample of 50  single
+stars presenting sharp absorption lines has been selected to carry out the
+abundance analysis. Stellar parameters and silicon abundances are derived
+consistently based on non-LTE synthesis of hydrogen, helium, and silicon lines,
+requiring ionization balance of SiII/III/IV. In this work, we present
+preliminary abundance results of our analysis.
