@@ -25,3 +25,12 @@ abundance analysis. Stellar parameters and silicon abundances are derived
 consistently based on non-LTE synthesis of hydrogen, helium, and silicon lines,
 requiring ionization balance of SiII/III/IV. In this work, we present
 preliminary abundance results of our analysis.
+
+
+From the [website](http://obswww.unige.ch/Conferences/IAU307/Scientific_Program.htm#techinfo):
+
+>Poster session
+>
+>Posters may be displayed for the whole duration of the symposium in the
+>vicinity of the conference room. The posters' format is at most A0
+>(841 x 1189 cm), in the portrait orientation.
