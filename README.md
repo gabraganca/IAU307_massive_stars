@@ -4,9 +4,10 @@
 The IAU symposium 307 entitled New Windows on Massive stars will
 be in Geneva, Switzerland, from 22 to 27 of June 2014.
 
-I will submit my work as a poster.
 
 **Title:** A Spectroscopic Study of OB Stars Located on the Outer Galactic Disk
+
+**Type:** Poster
 
 **Abstract:**
 
