@@ -23,8 +23,8 @@ for a sample of 137 OB stars located towards the Galactic anticenter using the
 stars presenting sharp absorption lines has been selected to carry out the
 abundance analysis. Stellar parameters and silicon abundances are derived
 consistently based on non-LTE synthesis of hydrogen, helium, and silicon lines,
-requiring ionization balance of SiII/III/IV. In this work, we present
-preliminary abundance results of our analysis.
+requiring ionization balance of SiII/III/IV and O I/II/III. In this work, we 
+present preliminary abundance results of our analysis.
 
 
 From the [website](http://obswww.unige.ch/Conferences/IAU307/Scientific_Program.htm#techinfo):
