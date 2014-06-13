@@ -27,10 +27,12 @@ Oxygen lines, requiring ionization balance of SiII/III/IV and O I/II/III. In thi
 we present preliminary abundance results of our analysis.
 
 
-From the [website](http://obswww.unige.ch/Conferences/IAU307/Scientific_Program.htm#techinfo):
+You can download the poster [here](http://dx.doi.org/10.6084/m9.figshare.1050565).
 
->Poster session
->
->Posters may be displayed for the whole duration of the symposium in the
->vicinity of the conference room. The posters' format is at most A0
->(841 x 1189 cm), in the portrait orientation.
+
+Please, cite this work as
+
+Bragança, Gustavo; Lanz, T.; Daflon, S.; Cunha, K.; Garmany, C. D.; Glaspey, J. W.; Borges, M. F.; Oey, M. S.; Bensby, T. (2014): A Spectroscopic Study of OB Stars Located on the Outer Galactic Disk. figshare. 
+http://dx.doi.org/10.6084/m9.figshare.1050565
+
+
