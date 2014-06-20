@@ -7,6 +7,9 @@ be in Geneva, Switzerland, from 22 to 27 of June 2014.
 
 The format of the presentation is **poster**.
 
+**Authors** Bragança, G.; Lanz, T.; Daflon, S.; Cunha, K.; Garmany, C. D.; 
+            Glaspey, J. W.; Borges, M. F.; Oey, M. S.; Bensby, T.
+
 **Abstract:**
 
 Abundance gradients are observed in other galaxies, with their metallicities 
