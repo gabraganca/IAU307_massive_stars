@@ -33,7 +33,7 @@ You can download the poster [here](http://dx.doi.org/10.6084/m9.figshare.1050565
 
 Please, cite this work as
 
-Bragança, Gustavo; Lanz, T.; Daflon, S.; Cunha, K.; Garmany, C. D.; Glaspey, J. W.; Borges, M. F.; Oey, M. S.; Bensby, T. (2014): A Spectroscopic Study of OB Stars Located on the Outer Galactic Disk. figshare. 
+Bragança, Gustavo; Lanz, T.; Daflon, S.; Cunha, K.; Garmany, C. D.; Glaspey, J. W.; Borges Fernandes, M.; Oey, M. S.; Bensby, T. (2014): A Spectroscopic Study of OB Stars Located on the Outer Galactic Disk. figshare. 
 http://dx.doi.org/10.6084/m9.figshare.1050565
 
 
