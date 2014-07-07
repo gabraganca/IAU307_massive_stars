@@ -1,11 +1,10 @@
 # A Spectroscopic Study of OB Stars Located in the Outer Galactic Disk
 
 
-This work will be presented in the IAU symposium 307 entitled [New Windows on Massive Stars](http://obswww.unige.ch/Conferences/IAU307/index.html) which will
-be in Geneva, Switzerland, from 22 to 27 of June 2014.
+This work was presented in the IAU symposium 307 entitled [New Windows on Massive Stars](http://obswww.unige.ch/Conferences/IAU307/index.html) which happened in Geneva, Switzerland, from 22 to 27 of June 2014.
 
 
-The format of the presentation is **poster**.
+The format of the presentation was **poster**.
 
 **Authors** Bragança, G.; Lanz, T.; Daflon, S.; Cunha, K.; Garmany, C. D.; 
             Glaspey, J. W.; Borges Fernandes, M.; Oey, M. S.; Bensby, T.
