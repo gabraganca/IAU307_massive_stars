@@ -37,3 +37,7 @@ Bragança, Gustavo; Lanz, T.; Daflon, S.; Cunha, K.; Garmany, C. D.; Glaspey, J.
 http://dx.doi.org/10.6084/m9.figshare.1050565
 
 
+**Acknowledgements:**
+We acknowledge financial support of National Science Foundations, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
+ and the International Astronomomic Union. This research has made use of the SIMBAD database,
+operated at CDS, Strasbourg, France and of Astropy, a community-developed core Python package for Astronomy (Astropy Collaboration, 2013).
